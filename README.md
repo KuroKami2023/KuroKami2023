@@ -1,12 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=110&section=header&reversal=false" width="100%"/>
+
  <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Gerome+Blanco;Software+Engineer+%7C+Automation+Developer;AI+Automation)](https://github.com/KuroKami2023)
 
 Building software applications, workflow automations, integrations, and AI-powered solutions.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=flat\&logo=vercel\&logoColor=white)](https://gerome-blanco.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/KuroKami2023)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=flat&logo=vercel&logoColor=white)](https://gerome-blanco.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/KuroKami2023)
 
 </div>
 
@@ -32,28 +34,28 @@ My work combines traditional software engineering with automation platforms and 
 
 ### Languages & Frameworks
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat\&logo=electron\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat\&logo=express\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
 ### Automation & AI
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat\&logo=n8n\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Workato](https://img.shields.io/badge/Workato-5A3EE0?style=flat)
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat\&logo=uipath\&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat\&logo=powerautomate\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/AI_Integrations-412991?style=flat\&logo=openai\&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
+![OpenAI](https://img.shields.io/badge/AI_Integrations-412991?style=flat&logo=openai&logoColor=white)
 
 ### Databases & Cloud
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat\&logo=supabase\&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonwebservices\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat)
 
 ---
@@ -104,3 +106,5 @@ A selection of independent projects exploring software engineering, automation, 
 **Building practical software. Automating repetitive work. Exploring what's next.**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=110&section=footer&reversal=false" width="100%"/>
