@@ -1,10 +1,6 @@
  <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Gerome+Blanco;Software+Engineer+%7C+Automation+Developer;AI+Automation)](https://github.com/KuroKami2023)
-
-# Hi, I'm Gerome Blanco
-
-### Software Engineer | Automation & Integration Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Gerome+Blanco;Software+Engineer+%7C+Automation+Developer;AI+Automation)](https://github.com/KuroKami2023)
 
 Building software applications, workflow automations, integrations, and AI-powered solutions.
 
