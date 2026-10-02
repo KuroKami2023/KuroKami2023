@@ -1,6 +1,6 @@
  <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Midorikami;Software+Engineer;I+build+SaaS-style+web+apps)](https://github.com/KuroKami2023)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Gerome+Blanco;Software+Engineer+%7C+Automation+Developer;AI+Automation)](https://github.com/KuroKami2023)
 
 # Hi, I'm Gerome Blanco
 
